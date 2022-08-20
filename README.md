@@ -7,3 +7,4 @@
 ### • A "get all files" function
 ### • A remove duplicates in a file function
 ### • My interpretation of the collatz conjecture
+### • A simple calculator
